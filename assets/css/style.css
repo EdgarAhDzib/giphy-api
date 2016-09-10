@@ -1,0 +1,47 @@
+body {
+	text-align: center;
+	background-image: url("../images/voyager-bright.jpg");
+	background-size: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+content {
+	align: center;
+	padding: auto;
+}
+
+article {
+	align: center;
+	margin: auto;
+}
+
+button {
+	margin: 7px;
+	border: 5px solid #cf6161;
+	border-radius: 5px;
+	width: 160px;
+}
+
+img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+table {
+	margin: auto;
+}
+
+.imageSpace {
+	margin: 7px;
+	border-radius: 5px;
+	border: 5px solid #ff9f00;
+}
+
+#addTopic {
+	margin: 7px;
+	border-radius: 5px;
+	border: 5px solid #cf9fcf;
+	font-size: 28px;
+	font-weight: bold;
+}
